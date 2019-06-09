@@ -35,7 +35,7 @@ import { ProfilComponent } from './profil/profil.component';
     FormsModule,
     HttpClientModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyAbtGPghuLoSfx-xpNdiu_DqUg3L5VlJRI'
+      apiKey: 'AIzaSyAHH_rdqffW5MZn172GmoehenOnFm4BPhY'
     })
   ],
   providers: [
